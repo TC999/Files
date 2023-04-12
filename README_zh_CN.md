@@ -6,7 +6,7 @@ Files
 Files是一款简单易用的开源文件管理器，它灵感来源于微软的Windows资源管理器。与Windows资源管理器不同的是，Files在目录树区域和文件列表区域之间有一个单独的移动条，这增加了对大型文件列表的可读性和导航性。
 
 <p align="center">
-  <img alt="Main Window" src="https://user-images.githubusercontent.com/55664138/101569957-05588c00-39ff-11eb-8cc8-38f0d89c07a7.png">
+  <img alt="Main Window" src="[https://user-images.githubusercontent.com/55664138/101569957-05588c00-39ff-11eb-8cc8-38f0d89c07a7.png](https://github.com/TC999/Files/blob/main/src/Files.App%20(Package)/Assets/AppTiles/Release/StoreLogo.scale-400.png)">
 </p>
 
 功能
